@@ -1,0 +1,13 @@
+window:
+  # Window dimensions (changes require restart)
+  dimensions:
+    columns: 80
+    lines: 24
+
+  # Background opacity (from 0.0 to 1.0)
+  opacity: 0.8
+
+font:
+  normal:
+    family: JetBrainsMono Nerd Font
+    style: Regular
